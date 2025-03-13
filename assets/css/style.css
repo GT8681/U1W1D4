@@ -4,7 +4,7 @@ body{
     background-image: url(../img/sfondo.png);
     padding: 1rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+}
     strong{
         font-weight: 600;
         color: #aa2072;
@@ -41,10 +41,6 @@ header a {
         padding: auto
 
    }
-
-
-   
-}
 
 h1{
     font-size: 36px;
