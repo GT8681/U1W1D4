@@ -90,9 +90,28 @@ th{
    
 }
 thead{
-     text-align: center;
+     
 }
-/* ELEMENTI NEL MAIN - ARTICLE */
+td{
+    text-align: center;
+    padding-bottom: 2rem;
+}
+section h2{
+text-align: center;
+border-bottom: 2rem;
+margin-bottom: 1rem;
+
+
+}
+section{
+    background-color: gray;
+     padding-block: 1rem;
+}
+
+
+
+
+/*NEL MAIN - ARTICLE */
 
 /* TABELLE */
 
