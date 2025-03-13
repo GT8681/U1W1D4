@@ -1,12 +1,58 @@
 /* IMPOSTAZIONI GENERALI */
+body{
+    
+    background-image: url(../img/sfondo.png);
+    padding: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    strong{
+        font-weight: 600;
+        color: #aa2072;
+    }
+    code{
+        background-color: lightgray;
+        border-radius: 6px;
+        border: 1px solid gray;
+        padding-block: 0.25rem;
+    }
 
 /* HEADER */
+header{
+    background-color: #0099bb;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: white;
+   text-transform: uppercase;
+   padding: 2rem;
 
+}
+
+header p {
+
+    margin-block: 1rem;
+}
+header a {
+    color: inherit;
+    text-decoration: none;
+}
 /* MAIN */
-.sfondo{
-    max-width: 500px;
-    background-image: url(../img/sfondo.png);
+   main{
+        background-color: white;
+        padding: auto
+
+   }
+
+
    
+}
+
+h1{
+    font-size: 36px;
+}
+
+.titolo{
+      color: lightblue;
+       margin-block: 1.5rem;    
 }
 /* ELEMENTI NEL MAIN - ARTICLE */
 
